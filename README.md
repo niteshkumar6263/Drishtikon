@@ -13,8 +13,7 @@ This system acts as a **virtual assistant**, providing spoken instructions.
 Over **285 million people** worldwide live with visual impairments. Most rely on white canes or guide dogs, which offer **limited awareness of their surroundings**. In busy urban environments, these traditional tools fail to detect:
 - Incoming vehicles
 - Obstacles like benches or stop signs
-- Lanes or safe walking zones
-- Potential threats (e.g., fast-approaching objects)
+- Lanes 
 
 There is a need for **affordable, real-time, intelligent navigation systems** that can fill this gap — and this project is a step toward that.
 
